@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.x-green.svg)
 
-SQL Injection Vulnerability Scanner, belirli bir URL veya URL listesi üzerinde SQL Injection zafiyetlerini tespit etmek için kullanılan bir Python aracıdır. Bu araç, farklı veritabanı türlerine göre özelleştirilebilir SQL payload'ları kullanır ve zafiyet tespit edildiğinde kullanıcıya durup durmayacağını sorar.
+Hawtsauce SQL Injection Vulnerability Scanner, belirli bir URL veya URL listesi üzerinde SQL Injection zafiyetlerini tespit etmek için kullanılan bir Python aracıdır. Bu araç, farklı veritabanı türlerine göre özelleştirilebilir SQL payload'ları kullanır ve zafiyet tespit edildiğinde kullanıcıya durup durmayacağını sorar.
 
 ## Özellikler
 
